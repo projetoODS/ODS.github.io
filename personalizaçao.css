@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(104, 231, 248);
+}
+h1{
+     font-size: 60px;
+}
+h2{
+    font-size: 40px;
+   
+
+}
+p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ .oi {
+     font-size: 30px;
+     border:solid  rgb(104, 183, 248) 8px ;
+     
+ }
