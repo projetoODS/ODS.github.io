@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(215, 245, 218);
+}
+.cabeçario{
+    background: url(fotomao.webp);
+    padding: 100px;
+    text-align: center;
+    font-family: fantasy;
+}
+#titulo{
+    color: rgb(44, 150, 58);
+    font-family: cursive;
+    font-size: 45px;
+
+}
+.subtitulo{
+    color: green;
+    font-size: 30px;
+}
+.botao{ color: rgb(46, 151, 62);
+        border: solid rgb(16, 82, 22) 5px ;
+        width: 90px;
+        height: 40px;
+        padding-top: 8px;
+        font-size: 23px;
+        margin: auto;
+}
+.botao:hover{
+    background-color:rgb(19, 81, 83);
+    color: rgb(46, 151, 62);
+}
+.video{
+
+}
+h1{
+    font-size: 60px;
+}
+h2{
+   font-size: 45px;
+  
+  
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 45px;
+    text-align: center;
+   
+}
+.video{
+   float: left;
+}
+  
+p{
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.oi {
+    font-size: 30px;
+    border:solid  rgb(82, 209, 113) 8px ;
+    
+}
+#c1{
+    width: 100%;
+    clear: both;
+    
+}
+
+#c2{
+   
+    float: left;
+    width: 63%;
+}
+#c3{
+    
+    float: right;
+    width: 35%;
+}
+.imagem1{ 
+    width: 80%;
+
+}
+#c4{
+    background: rgb(211, 15, 201);
+    width: 30%;
+    float: right;
+   
+}
+#c5{
+    background: rgb(211, 15, 201);
+    width: 30%;
+    float: right;
+}
+#c0{
+
+}
